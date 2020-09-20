@@ -1,10 +1,10 @@
 body {
-    font-family: 'Verdana', sans-serif;
+    font-family: 'Lucida Console', sans-serif;
     margin: 10px 15px;
     background: #ffffbf;
 }
 
-a {
+a, .fas {
     color: #8a2200;
 }
 
