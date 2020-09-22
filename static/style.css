@@ -38,4 +38,6 @@ header nav ul li {
 
 div.page {
     background: #fcfcd7;
+    line-height: 1.5;
+    width: 50%;
 }
