@@ -39,5 +39,13 @@ header nav ul li {
 div.page {
     background: #fcfcd7;
     line-height: 1.5;
-    width: 50%;
+    width: 60%;
 }
+
+code {
+    background: #d1d1d1;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+}
+
