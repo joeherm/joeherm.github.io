@@ -49,3 +49,6 @@ code {
     border-radius: 5px;
 }
 
+span.blockspam {
+    display: none;
+  }
